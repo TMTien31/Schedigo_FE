@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
       });
   }
 
-  // Nút trong Landing Section
+  // Nút trong Main Section
   const primaryButton = document.querySelector(".btn.primary");
   if (primaryButton) {
       primaryButton.addEventListener("click", function () {
